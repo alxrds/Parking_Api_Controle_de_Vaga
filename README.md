@@ -8,4 +8,4 @@
 - JDK 11
 - Maven
 - Postman
-- PgAdmin (Postgres)
+- PostgreSQL
