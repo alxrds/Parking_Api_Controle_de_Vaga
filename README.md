@@ -4,3 +4,8 @@
 
 ### Seguindo tutorial do canal Michelli Brito
 ### https://www.youtube.com/watch?v=LXRU-Z36GEU&t=4263s
+
+- JDK 11
+- Maven
+- Postman
+- PgAdmin (Postgres)
